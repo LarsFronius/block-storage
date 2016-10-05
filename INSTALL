@@ -5,10 +5,7 @@ The following are example install steps for this benchmark.
 
 # install dependencies
 sudo apt-get -y update
-sudo apt-get -y install gnuplot php5-cli util-linux zip make autoconf libtool gettext libgconf2-dev libncurses5-dev python-dev libaio-dev libaio1 build-essential git autoconf libtool gettext libgconf2-dev libncurses5-dev python-dev
-
-# OR install fio 2.1 => Ubuntu 14.04
-sudo apt-get -y install fio
+sudo apt-get -y install gnuplot php5-cli util-linux zip make autoconf libtool gettext libgconf2-dev libncurses5-dev python-dev libaio-dev libaio1 build-essential git autoconf libtool gettext libgconf2-dev libncurses5-dev python-dev fio
 
 # install wkhtmltopdf 0.12.1
 cd
